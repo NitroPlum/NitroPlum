@@ -1,4 +1,10 @@
-# @NitroPlum - Currently working on a cool fishing game. 🎣
+ _____  _  _              _____  _             
+|   | ||_|| |_  ___  ___ |  _  || | _ _  _____ 
+| | | || ||  _||  _|| . ||   __|| || | ||     |
+|_|___||_||_|  |_|  |___||__|   |_||___||_|_|_|
+                                               
+# Currently working on a cool fishing game. 🎣
+
 ### 💼 Software Engineering Consultant  
 ### 🎮 Game Developer  
 ### 🎨 User Experience Designer  
