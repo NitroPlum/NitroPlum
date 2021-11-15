@@ -3,7 +3,7 @@
 | | | || ||  _||  _|| . ||   __|| || | ||     |
 |_|___||_||_|  |_|  |___||__|   |_||___||_|_|_|
                                                
-# Currently working on a cool fishing game. 🎣
+# Working on various projects
 
 ### 💼 Software Engineering Consultant  
 ### 🎮 Game Developer  
