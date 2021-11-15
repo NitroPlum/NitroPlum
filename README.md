@@ -1,9 +1,4 @@
- _____  _  _              _____  _             
-|   | ||_|| |_  ___  ___ |  _  || | _ _  _____ 
-| | | || ||  _||  _|| . ||   __|| || | ||     |
-|_|___||_||_|  |_|  |___||__|   |_||___||_|_|_|
-                                               
-# Working on various projects
+# Working on various projects 
 
 ### 💼 Software Engineering Consultant  
 ### 🎮 Game Developer  
